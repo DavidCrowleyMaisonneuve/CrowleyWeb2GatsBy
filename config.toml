@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Exercice Web2 Crowley David'
+theme = "ananke" 
